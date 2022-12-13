@@ -1,0 +1,10 @@
+E:\_PorjectColloge\Simplex\Simplex\Simplex\bin\Debug\Simplex.exe.config
+E:\_PorjectColloge\Simplex\Simplex\Simplex\bin\Debug\Simplex.exe
+E:\_PorjectColloge\Simplex\Simplex\Simplex\bin\Debug\Simplex.pdb
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.Form1.resources
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.exe
+E:\_PorjectColloge\Simplex\Simplex\Simplex\obj\Debug\Simplex.pdb
